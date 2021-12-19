@@ -51,6 +51,6 @@
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Sanlovty&bg_color=151515&title_color=FA8B00&text_color=FDFDFD&hide_border=true)](https://wakatime.com/@Sanlovty)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanlovty&layout=compact&bg_color=151515&title_color=FA8B00&text_color=FDFDFD&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanlovty&langs_count=6&layout=compact&bg_color=151515&title_color=FA8B00&text_color=FDFDFD&hide_border=true)
 
 
