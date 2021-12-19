@@ -47,8 +47,9 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sanlovty&hide=stars,contribs&bg_color=151515&title_color=FA8B00&text_color=FDFDFD&hide_border=true) 
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sanlovty&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
+<!---
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Sanlovty&bg_color=151515&title_color=FA8B00&text_color=FDFDFD&hide_border=true)](https://wakatime.com/@Sanlovty)
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanlovty&layout=compact&bg_color=151515&title_color=FA8B00&text_color=FDFDFD&hide_border=true)
 
