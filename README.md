@@ -44,3 +44,4 @@
 
 ## 📈  My modest statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sanlovty&hide=stars&bg_color=-10,ffc000,0099ff&title_color=1e1d1a&text_color=1e1d1a)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sanlovty&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
