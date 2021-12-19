@@ -43,6 +43,4 @@
 ---
 
 ## 📈  My modest statistics
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Sanlovty&count_private=true&theme=default&show_icons=true)
-![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sanlovty&layout=compact&theme=default)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Sanlovty&hide=contribs,issues&bg_color=-10,ffc000,0099ff&title_color=1e1d1a&text_color=1e1d1a)
