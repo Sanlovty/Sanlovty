@@ -43,4 +43,4 @@
 ---
 
 ## 📈  My modest statistics
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Sanlovty&hide=contribs,issues,stars&bg_color=-10,ffc000,0099ff&title_color=1e1d1a&text_color=1e1d1a)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Sanlovty&hide=stars&bg_color=-10,ffc000,0099ff&title_color=1e1d1a&text_color=1e1d1a)
