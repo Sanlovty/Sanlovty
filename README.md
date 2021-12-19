@@ -44,13 +44,13 @@
 ---
 
 ## 📈  My modest statistics
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Sanlovty&hide=stars,contribs&bg_color=151515&title_color=FA8B00&text_color=FDFDFD&hide_border=true) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Sanlovty&hide=stars,contribs&bg_color=151515&title_color=FA8B00&text_color=FDFDFD&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&hide_rank=false&icon_color=FA8B00) 
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sanlovty&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 <!---
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Sanlovty&bg_color=151515&title_color=FA8B00&text_color=FDFDFD&hide_border=true)](https://wakatime.com/@Sanlovty)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanlovty&langs_count=6&layout=compact&bg_color=151515&title_color=FA8B00&text_color=FDFDFD&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanlovty&langs_count=6&layout=compact&bg_color=151515&title_color=FA8B00&text_color=FDFDFD&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&hide_rank=false&icon_color=FA8B00)
 
 
