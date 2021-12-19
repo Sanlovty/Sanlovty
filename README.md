@@ -34,7 +34,7 @@
 
 *  <a href="https://t.me/sanlovty" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="sanlovty" height="25" width="25" /></a>  [@sanlovty](https://t.me/sanlovty) 
 
-*  <a href="https://discord.com/users/382627884499468298" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="sanlovty" height="25" width="25" /></a>  [Sanlovty#8888](https://discord.com/users/382627884499468298)   
+*  <a href="https://discord.com/users/382627884499468298" target="blank"><img align="center" src="https://psv4.userapi.com/c235031/u145340915/docs/d7/12875ed43e11/Discord_Logo_Circle.png?extra=yfbb38o_qH8J7ZKVykkk2wf4QH7-r6VVu2TdhGtmhRjFyVGSQpZUMnsx7HRXn48kq1Vgc0_DPpbX_d-tAUJNTEEKcK2ugFuoBsdXAWimrSSAxZABy4zo5iO0OgIeSiJkgCEOo3oAxu-R5NtJIM6eGZ7wePM" alt="sanlovty" height="25" width="25" /></a>  [Sanlovty#8888](https://discord.com/users/382627884499468298)   
 
 ---
 ## 🎵 Listening to
