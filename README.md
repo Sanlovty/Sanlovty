@@ -51,9 +51,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanlovty&langs_count=6&layout=compact&bg_color=151515&title_color=FA8B00&text_color=FDFDFD&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&hide_rank=false&icon_color=FA8B00)
 -->
-![s](https://github.com/Sanlovty/github-stats./blob/80bc669109844277b421d3a2b285f4a8adc623fb/generated/overview.svg)
-![s](https://github.com/Sanlovty/github-stats./blob/80bc669109844277b421d3a2b285f4a8adc623fb/generated/languages.svg)
-
+![s](https://github.com/Sanlovty/github-stats./blob/master/generated/overview.svg)
+![s](https://github.com/Sanlovty/github-stats./blob/master/generated/languages.svg)
+     
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sanlovty&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 
