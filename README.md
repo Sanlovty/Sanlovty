@@ -56,4 +56,4 @@
      
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sanlovty&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Sanlovty)](https://wakatime.com/@Sanlovty&hide_border=true)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Sanlovty&hide_border=true)](https://wakatime.com/@Sanlovty)
