@@ -1,6 +1,6 @@
 
 # Hi there 🍻, I'm Gleb
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23AEAEAE&width=500&lines=Your+life+is+your+project%2C+follow+GitHub+flow)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23BDBDBD&width=700&lines=Your+life+is+your+project%2C+follow+your+flow+and+close+issues)
 ---
 
 ## 🛠 Tech Stack
