@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23BDBDBD&width=700&lines=Your+life+is+your+project%2C+follow+your+flow+and+close+issues)
 ---
 
-## 🛠 Tech Stack
+## :fork_and_knife: Stack
 
 * ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <!---![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 -->![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,7 +17,7 @@
 * ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-## :rainbow: Additional skills
+## :coffee: Additional skills
 
 * ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
@@ -25,7 +25,7 @@
 * ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 
 ---
-## 📫 How to reach me
+## :outbox_tray: How to reach me
 
 * <a href="mailto:sanlovty@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="sanlovty" height="30" width="30" /></a>[sanlovty@gmail.com](mailto:sanlovty@gmail.com)  
 
