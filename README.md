@@ -39,6 +39,11 @@
 
 ---
 
+## :package: My wishlist
+- [For russians](https://gist.github.com/Sanlovty/9b7bb98e32c2a81db0ca9d6a04d0166e)
+
+---
+
 ## 📈  My modest statistics
 <!---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sanlovty&hide=stars,contribs&bg_color=151515&title_color=FA8B00&text_color=FDFDFD&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&hide_rank=false&icon_color=FA8B00) 
