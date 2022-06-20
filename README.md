@@ -1,6 +1,6 @@
 
 # Hi there 🍻, I'm Gleb
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23BDBDBD&width=700&lines=Your+life+is+your+project%2C+follow+your+flow+and+close+issues)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23BDBDBD&width=700&lines=Your+life+is+your+project%2C+follow+your+flow+and+close+the+issues)
 ---
 
 ## :fork_and_knife: Stack
@@ -27,7 +27,7 @@
 ---
 ## :outbox_tray: How to reach me
 
-* <a href="mailto:sanlovty@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="sanlovty" height="30" width="30" /></a>[sanlovty@gmail.com](mailto:sanlovty@gmail.com)  
+* <a href="mailto:sanlovty@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="sanlovty" height="30" width="30" /></a> [sanlovty@gmail.com](mailto:sanlovty@gmail.com)  
 
 
 *  <a href="https://vk.com/sanlovty" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="sanlovty" height="25" width="25" /></a>   [sanlovty](https://vk.com/sanlovty)  
