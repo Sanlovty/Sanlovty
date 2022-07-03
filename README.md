@@ -40,7 +40,7 @@
 ---
 
 ## :package: My wishlist
-- [For russians](https://gist.github.com/Sanlovty/9b7bb98e32c2a81db0ca9d6a04d0166e)
+- https://www.notion.so/sanlovty/842fc7c4138d4f29becf0a7115cc4db1
 
 ---
 
